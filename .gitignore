@@ -1,0 +1,119 @@
+### General ###
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.class
+*.jar
+*.war
+*.ear
+*.sqlite
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+.idea_modules/
+.idea_working_sets.txt
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/libraries
+.idea/**/shelf
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Maven ###
+.mvn
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Gradle ###
+.gradle
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+.gradle/
+build/
+
+### Spring Tool Suite ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+.springBeans
+
+### Operating System ###
+# Windows
+*.exe
+*.dll
+*.com
+*.bat
+*.sh
+
+# macOS
+*.dmg
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+### Logs ###
+*.log
+
+### Sensitive Information ###
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+### IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Node ###
+node_modules/
+npm-debug.log
+yarn-error.log
+
+### Python ###
+__pycache__/
+*.py[cod]
+
+### STS ###
+.sts4-cache
+
+### Other ###
+*.log
+*.lock
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
+*.backup
+logs/
